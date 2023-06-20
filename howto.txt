@@ -8,3 +8,5 @@ https://github.com/mpeng/InputOutput
 6. ng g c customerDetail
 7. ng g customer
 
+Also read https://angular.io/guide/template-syntax
+
