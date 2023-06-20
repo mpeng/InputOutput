@@ -1,0 +1,10 @@
+<table>
+  <tr><td>Customer No :</td><td> {{customer.customerNo}}</td></tr>
+  <tr><td>Name        : </td><td><input [(ngModel)]="customer.name"></td></tr>
+  <tr><td>Address     : </td><td><input [(ngModel)]="customer.address"></td></tr>
+  <tr><td>city     : </td><td><input [(ngModel)]="customer.city"></td></tr>
+  <tr><td>state     : </td><td><input [(ngModel)]="customer.state"></td></tr>
+  <tr><td>country     : </td><td><input [(ngModel)]="customer.country"></td></tr>
+</table>
+<p><p>
+<button (click)="update()">Update</button>
