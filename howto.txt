@@ -1,0 +1,10 @@
+https://github.com/mpeng/InputOutput
+
+1. Refer to https://www.tektutorialshub.com/angular/angular-input-output-eventemitter/
+2. ng version   make sure it is 16 or higher
+3. ng new InputOutputExample
+4. cd InputOutputExample
+5. ng g c customerList
+6. ng g c customerDetail
+7. ng g customer
+
